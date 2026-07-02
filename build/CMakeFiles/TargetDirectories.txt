@@ -1,0 +1,3 @@
+/home/nordi/cpp-github-project/build/CMakeFiles/app.dir
+/home/nordi/cpp-github-project/build/CMakeFiles/edit_cache.dir
+/home/nordi/cpp-github-project/build/CMakeFiles/rebuild_cache.dir
