@@ -1,4 +1,4 @@
-CMakeFiles/app.dir/src/main.cpp.o: \
+CMakeFiles/port_scanner.dir/src/main.cpp.o: \
  /home/nordi/cpp-github-project/src/main.cpp /usr/include/stdc-predef.h \
  /usr/include/arpa/inet.h /usr/include/features.h \
  /usr/include/features-time64.h \
