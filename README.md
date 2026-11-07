@@ -2,9 +2,6 @@
 
 Scanner de ports TCP simple en **C++17**, utilisant `std::thread`, `std::atomic` et des sockets POSIX non bloquants avec `select()` pour un timeout par connexion.
  
- 
-L'idée c'est de montrer la maîtrise du réseau bas niveau, du multithreading, et des bonnes pratiques C++ modernes.
-
 ## Fonctionnalités
 
 - Scan TCP connect() multi-threadé (pool de threads configurable)
